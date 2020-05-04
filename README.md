@@ -24,3 +24,5 @@ Tic Tac Toe game is fully functional game developed by using pure jQuery.
 # Note:
 
 Please attach or download jQuery with your code before using it.
+
+# Please rename the file "index.php" to "index.html" to use or run it.
