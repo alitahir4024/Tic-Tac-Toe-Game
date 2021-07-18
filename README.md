@@ -19,7 +19,7 @@ Tic Tac Toe game is fully functional game developed by using pure jQuery.
 
 ## Project Preview:
 
-(https://tic-tac-toe-game-app.herokuapp.com/).
+[Tic Tac Toe Game](https://tic-tac-toe-game-app.herokuapp.com/)
 
 # Note:
 
